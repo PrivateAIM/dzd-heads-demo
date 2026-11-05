@@ -1,0 +1,2 @@
+flame @ git+https://github.com/PrivateAIM/python-sdk-patterns.git@1.1.0
+pandas
